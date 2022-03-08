@@ -1,6 +1,6 @@
 # Object detection in Java
 
-![https://i.gyazo.com/700e5a7a2910d7b0b33c86af7351b785.gif]
+![](https://i.gyazo.com/700e5a7a2910d7b0b33c86af7351b785.gif)
 
 ## Authors: Amin Kokhaei & Marcus Gisslén
 ### Object Detection in Java using OpenCV
