@@ -14,8 +14,8 @@ The OpenCV module is used for color detection of monochrome objects. The OpenCV 
 #### JavaFX
 JavaFX is a library used to create the application's user interface. The methods are for example used to create the windows of the program, the buttons and the checkboxes.
 
-* Compile with
+Compile with
 `javac -cp "PATH_TO_OPENCV\build\java\opencv-xxx.jar;." --module-path "PATH_TO_JAVAFX\lib" --add-modules javafx.controls,javafx.fxml,javafx.swing application/*java`
 
-* To run, use
+To run, use
 `java -cp "PATH_TO_OPENCV\build\java\opencv-xxx.jar;." --module-path "PATH_TO_JAVAFX\lib" --add-modules javafx.controls,javafx.fxml,javafx.swing -Djava.library.path="PATH_TO_OPENCV\build\java\x64" application.Main`
