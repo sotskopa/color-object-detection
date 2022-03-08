@@ -1,4 +1,4 @@
-# DD1349 Project
+# Object detection in Java
 
 ## Authors: Amin Kokhaei & Marcus Gisslén
 ### Object Detection in Java using OpenCV
